@@ -186,5 +186,3 @@ Feel free to reach out or open an issue if:
 MIT License
 
 ---
-
-Would you like me to generate a working `Dockerfile` and `docker-compose.yml` to make running the Go app + PostgreSQL fully automated for learners?
